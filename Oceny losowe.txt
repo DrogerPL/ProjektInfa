@@ -1,0 +1,5 @@
+﻿0,2 - Stefania
+1  - Stefan
+2,3 - Sebastian 
+5,3 - Syfon
+4,4 
